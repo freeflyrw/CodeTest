@@ -27,7 +27,7 @@ namespace CodeTest.Controllers
             if (stringToReverse.Length > 1024)
             {
                 return BadRequest(
-                    $"Processing of strings > 1024 characters is not recommended. Use the HttpPost call. Provided string length: {stringToReverse.Length}");                
+                    $"Use the HttpPost call. Processing of strings > 1024 characters is not recommended. Provided string length: {stringToReverse.Length}");                
             }
 
             return Ok(stringToReverse.ReverseString());

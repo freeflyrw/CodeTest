@@ -188,7 +188,6 @@ C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\bin\Debug\netcoreap
 C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\bin\Debug\netcoreapp3.1\Codetest.dll
 C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\bin\Debug\netcoreapp3.1\Codetest.pdb
-C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreapp3.1\CodeTestUnitTests.csprojAssemblyReference.cache
 C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreapp3.1\CodeTestUnitTests.AssemblyInfoInputs.cache
 C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreapp3.1\CodeTestUnitTests.AssemblyInfo.cs
 C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreapp3.1\CodeTestUnitTests.csproj.CoreCompileInputs.cache
@@ -196,3 +195,8 @@ C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreap
 C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreapp3.1\CodeTestUnitTests.dll
 C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreapp3.1\CodeTestUnitTests.pdb
 C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreapp3.1\CodeTestUnitTests.genruntimeconfig.cache
+C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\bin\Debug\netcoreapp3.1\CodeTest.deps.json
+C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\bin\Debug\netcoreapp3.1\CodeTest.runtimeconfig.json
+C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\bin\Debug\netcoreapp3.1\CodeTest.runtimeconfig.dev.json
+C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreapp3.1\CodeTestUnitTests.csproj.AssemblyReference.cache
+C:\Users\Ian\source\repos\APITest\CodeTest\CodeTestUnitTests\obj\Debug\netcoreapp3.1\CodeTestUnitTests.GeneratedMSBuildEditorConfig.editorconfig
